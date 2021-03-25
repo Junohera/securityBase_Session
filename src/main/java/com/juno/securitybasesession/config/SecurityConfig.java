@@ -7,5 +7,5 @@ import org.springframework.security.config.annotation.web.configuration.WebSecur
 @Configuration
 @Log4j2
 public class SecurityConfig extends WebSecurityConfigurerAdapter {
-    
+
 }
